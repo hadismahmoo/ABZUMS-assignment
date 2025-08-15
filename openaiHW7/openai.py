@@ -7,9 +7,9 @@ try:
 except FileNotFoundError:
     OpenAI_API_key=[]
 
-AVALAI_base_URL=AVALAI_BASE_URL = "https://api.avalai.ir/v1"
+AVALAI_base_URL= "https://api.avalai.ir/v1"
 
-client=OpenAI(api_key=OpenAI_API_key,base_url=AVALAI_BASE_URL)
+client=OpenAI(api_key=OpenAI_API_key,base_url=AVALAI_base_URL)
 
 tone=input('Enter a tone for the conversation (e.g.,sarcastically,cheerfully,angrily.): ')
 

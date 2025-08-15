@@ -1,0 +1,16 @@
+event_ID,user_ID,timestamp,platform,event_type,video_ID,watch_time_sec,video_duration_sec,engagement_score
+1004,Hananneh4534,2025-04-10 09:08:12,android,like,Zt3Ox7qB8pP,600.0,750.0,3.0
+1003,Hana3465,2025-05-12 15:13:33,web,comment,Zt3Ox7qB8pP,230.0,300.0,5.0
+1002,Fahimmed5455,2025-04-30 14:15:22,ios,logout,Zt3Ox7qB8pP,200.0,240.0,0.0
+1005,Davod6756,2025-04-19 20:19:23,ios,play_video,Zt3Ox7qB8pP,180.0,300.0,1.0
+1004,Hamid3333,2025-05-12 21:40:33,android,like,b3Tn52qPz7t,240.0,200.0,3.0
+1005,Sama4466,2025-05-13 13:12:21,ios,play_video,Zt2Lx7qB8pP,180.0,120.0,1.0
+1002,Hamed3290,2025-03-29 12:19:22,web,logout,,,,0.0
+1003,Foroogh9900,2025-04-19 23:12:21,android,comment,a9X4mQw2KOt,120.0,120.0,5.0
+1001,Yeganeh6745,2025-04-29 21:32:12,web,login,Zt2Lx7qB8pC,45.0,60.0,0.0
+1002,Shamim3478,2025-05-21 10:33:26,ios,logout,Zt2Lx7qB8pC,200.0,200.0,0.0
+1004,Sahar3490,2025-05-20 21:54:07,android,like,Xz7Lp9Hc5Rg,90.0,200.0,3.0
+1003,Hamid7845,2025-04-12 12:03:33,web,comment,Xz7Lp9Hc5Rg,85.0,140.0,5.0
+1005,Sara6655,2025-04-01 9:13:21,ios,play-video,a9X4mQw2KpY,90.0,120.0,
+1002,Ali2334,2025-03-11 15:45:17,ios,logout,,,,0.0
+1001,hadis1234,2025-03-10 19:33:23,web,login,,,,0.0
